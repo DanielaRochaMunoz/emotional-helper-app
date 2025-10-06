@@ -6,7 +6,6 @@ Mobile application combining Artificial Intelligence, IoT, and Computer Vision t
 ## Main Features
 - Mobile app built with **React Native + Firebase**, integrating **OpenAI API** and **Google TTS**.  
 - CNN trained with **30,000+ images in Keras** for facial emotion recognition.
-    - [Facial Emotion Recognition CNN Repository](https://github.com/DanielaRochaMunoz/Facial-emotion-recognitionCNN) 
 - IoT device (**ECG + NodeMCU**) sending heart rate data every 7 seconds to Firebase.  
 - Emotionally personalized responses via **chat and voice**.  
 - Strengthened Firebase security with **user authentication** and **granular access rules**.  
@@ -33,8 +32,8 @@ Mobile application combining Artificial Intelligence, IoT, and Computer Vision t
 This project is composed of **3 main repositories**:  
 - **Frontend (React Native App)** → mobile interface, voice recognition, and chat.  
 - **Backend (NestJS)** → server logic, OpenAI and Google TTS integration.  
-- **Facial Recognition CNN** → Keras CNN for emotion classification.  
-
+- **Facial Recognition CNN** → Keras CNN for emotion classification.
+    - [Facial Emotion Recognition CNN Repository](https://github.com/DanielaRochaMunoz/Facial-emotion-recognitionCNN)  
 ---
 
 ## Installation & Execution
