@@ -31,7 +31,8 @@ Mobile application combining Artificial Intelligence, IoT, and Computer Vision t
 ## Complementary repositories
 This project is composed of **3 main repositories**:  
 - **Frontend (React Native App)** → mobile interface, voice recognition, and chat.  
-- **Backend (NestJS)** → server logic, OpenAI and Google TTS integration.  
+- **Backend (NestJS)** → server logic, OpenAI and Google TTS integration.
+   - [Emocare Backend Repository](https://github.com/DanielaRochaMunoz/emocare-backend)  
 - **Facial Recognition CNN** → Keras CNN for emotion classification.
     - [Facial Emotion Recognition CNN Repository](https://github.com/DanielaRochaMunoz/Facial-emotion-recognitionCNN)  
 ---
